@@ -5,7 +5,7 @@ With some basic JavaScript principles in hand, we can now expand our skills out 
 
 ## Set Up The Project With Git
 
-**Follow these steps to set up and work on your project:**
+**Follow  these steps to set up and work on your project:**
 
 * [ ] Create a forked copy of this project.
 * [ ] Add your project manager as collaborator on Github.
